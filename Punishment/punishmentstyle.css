@@ -1,0 +1,14 @@
+body{
+    font-family:chiller;
+    font-size:xxx-large;
+    font-weight:bold;
+    min-height:100vh;
+    background:url(homebg2.jpg)
+        no-repeat center ;
+    background-size:cover;
+}
+
+.form{
+    text-align: center;
+    padding:10%
+}

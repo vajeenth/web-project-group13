@@ -1,0 +1,91 @@
+
+
+
+input{
+   
+    margin:auto;
+    border-radius: 4px;
+    border: 2px solid rgb(214, 0, 0);
+    cursor: pointer;
+
+}
+form{
+    box-sizing:border-box;
+    gap: -2px;
+    background-color: rgba(66, 60, 70);
+    width: 40%;
+    display:grid;
+    font-display:optional;
+    border-radius: 3%;
+}
+
+label{
+    align-content: center;
+    
+}
+input[type=text]{
+    width:50%;
+    padding: 2px;
+    display: inline;
+}
+input[type=Email]{
+    width:50%;
+    padding: 2px;
+    display: inline;
+}
+input[type=password]{
+    width:50%;
+    padding: 2px;
+    display: inline;
+}
+input[type=text]:hover{
+    background-color:rgb(98, 165, 190);
+}
+
+Button{
+    background-color: rgb(42, 128, 165);
+    width:25%;
+    align-items: center;
+    text-decoration: none;
+   
+}
+
+button:hover{
+    background-color: rgb(98, 165, 190);
+}
+    
+select{
+    width:50%;
+    padding:2px;
+    border: 2px solid red;
+    text-align: center;
+    
+}
+select:hover{
+    background-color: rgb(98, 165, 190);
+}
+a{
+    color:white;
+}
+
+/*style for btn*/
+
+button{
+    background-color: rgb(240, 163, 8);
+    
+    cursor:pointer;
+    border:none;
+    border-radius:7%;
+    font-size:20px;
+    box-shadow:0 0 5px rgb(198, 65, 7),
+    0 0 25px rgb(198, 65, 7);
+    transition:.52s;
+}
+
+button:hover{
+    box-shadow:0 0 5px cyan,
+    0 0 25px rgb(243, 247, 6),
+    0 0 30px rgb(243, 247, 6),
+    0 0 50px rgb(243, 247, 6),
+    0 0 70px rgb(243, 247, 6);
+}

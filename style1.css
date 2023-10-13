@@ -1,0 +1,14 @@
+form{
+    border:3px solid black;
+    text-align:center;
+    margin:2% 20%;
+    padding:20px 30px 100px 30px;
+    background-color:rgb(189, 189, 63);
+    
+}
+
+button{
+    color:red;
+    font-weight:bold;
+    background-color:black;
+}

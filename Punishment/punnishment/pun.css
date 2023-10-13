@@ -1,0 +1,28 @@
+h1{
+    color: white;
+    font-family: chiller;
+}
+h2{
+    color: red;
+    font-family: chiller;
+    font-size: xx-large;
+}
+body{
+    background:url(pun.jpg)
+}
+.content{
+    color:red;
+    font-family:arial;
+    margin: 40%;
+    margin-top: auto;
+    font-weight: thick;
+    
+
+}
+ul li {
+    margin: 10px;
+}
+button{
+    background-color: black;
+    color:white;
+}
